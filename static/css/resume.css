@@ -45,7 +45,7 @@ nav {
 	float: center;
 	width: 100%;
 	text-align: center;
-	margin-right: 50px;
+	margin-right: 40px;
 }
 header nav ul {
 	list-style: none;
@@ -56,7 +56,7 @@ header nav ul li {
 	color: #1b31f7;
 	font-size: 18px;
 	text-align: left;
-	margin-right: 50px;
+	margin-right: 40px;
 	letter-spacing: 2px;
 	font-weight: bold;
 	transition: all 0.3s linear;
