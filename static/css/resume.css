@@ -40,6 +40,36 @@ html p {
     width: 1000px;
     margin: 0 auto;
 }
+
+nav {
+	float: center;
+	width: 100%;
+	text-align: center;
+	margin-right: 50px;
+}
+header nav ul {
+	list-style: none;
+	float: left;
+}
+header nav ul li {
+	float: left;
+	color: #1b31f7;
+	font-size: 18px;
+	text-align: left;
+	margin-right: 50px;
+	letter-spacing: 2px;
+	font-weight: bold;
+	transition: all 0.3s linear;
+}
+header nav ul li a {
+	color: #1b01ff;
+	text-decoration: none;
+}
+header nav ul li:hover a {
+	color: #2C9AB7;
+}
+
+
 .hide {
     display: none;
 }
