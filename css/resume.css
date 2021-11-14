@@ -194,29 +194,29 @@ section .title::before {
     left: 90px;
 }
 section .title.project::after {
-    content: url(../image/icon1.png)
+    content: url(../images/icon1.png)
 }
 section .title.work::after {
-    content: url(../image/icon3.png)
+    content: url(../images/icon3.png)
 }
 section .title.enducation::after {
-    content: url(../image/icon5.png)
+    content: url(../images/icon5.png)
 }
 section .title.about-me::after {
-    content: url(../image/icon7.png);
+    content: url(../images/icon7.png);
     left: 10px;
 }
 section .title.project::before {
-    content: url(../image/icon2.png)
+    content: url(../images/icon2.png)
 }
 section .title.work::before {
-    content: url(../image/icon4.png)
+    content: url(../images/icon4.png)
 }
 section .title.enducation::before {
-    content: url(../image/icon6.png)
+    content: url(../images/icon6.png)
 }
 section .title.about-me::before {
-    content: url(../image/icon8.png)
+    content: url(../images/icon8.png)
 }
 
 .project-detail .col-3-abs {
