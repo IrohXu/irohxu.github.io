@@ -12,7 +12,7 @@ a {
 html p {
     margin: 0;
 }
-.col-3, .col-6, .col-9 {
+.col-3, .col-6, .col-9, .col-12 {
     display: inline-block;
     vertical-align: top;
     margin: 0;
@@ -36,6 +36,12 @@ html p {
 .col-9 {
     width: 65%;
 }
+
+.col-12 {
+    text-align:left;
+    width: 95.0%;    
+}
+
 .container {
     width: 1000px;
     margin: 0 auto;
