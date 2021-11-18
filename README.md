@@ -8,7 +8,9 @@ Upload new version.
 
 Add CNAME to www.irohxucao.com    
     
-    
+## 2021.11.17    
+
+Add some images to `Life in NYC`    
     
     
     
