@@ -11,7 +11,10 @@ Add CNAME to www.irohxucao.com
 ## 2021.11.17    
 
 Add some images to `Life in NYC`    
-    
+
+## 2021.11.29    
+
+Add some info to `Project`    
     
     
     
