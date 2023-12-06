@@ -35,6 +35,11 @@ header ul li {
     line-height: 1.5;
 }
 
+.responsive-image {
+    max-width: 75%;
+    height: auto;
+}
+
 footer {
     background-color: #20232a;
     color: white;
