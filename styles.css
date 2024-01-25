@@ -40,6 +40,11 @@ header ul li {
     height: auto;
 }
 
+.wacv2024-image {
+    max-width: 25%;
+    height: auto;
+}
+
 footer {
     background-color: #20232a;
     color: white;
