@@ -5,4 +5,4 @@ date: 2025-01-02
 inline: true
 ---
 
-I am serving as the General Chair of [ICLR 2025 Workshop on AI for Children (AI4CHL)](https://pediamedai.com/ai4chl/).
+I am serving as the General chair of [ICLR 2025 Workshop on AI for Children (AI4CHL)](https://pediamedai.com/ai4chl/).
