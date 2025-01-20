@@ -1,0 +1,30 @@
+---
+---
+
+%special fields include abbr, award, pdf, html, abstract, slides, video, selected
+
+@misc{oala2020interval,
+      title={Interval Neural Networks: Uncertainty Scores}, 
+      author={Luis Oala and Cosmas Heiß and Jan Macdonald and Maximilian März and Wojciech Samek and Gitta Kutyniok},
+      year={2020},
+      eprint={2003.11566},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      abbr={arXiv},
+      html={https://arxiv.org/abs/2003.11566},
+      pdf={https://arxiv.org/pdf/2003.11566.pdf},
+      abstract={We propose a fast, non-Bayesian method for producing uncertainty scores in the output of pre-trained deep neural networks (DNNs) using a data-driven interval propagating network. This interval neural network (INN) has interval valued parameters and propagates its input using interval arithmetic. The INN produces sensible lower and upper bounds encompassing the ground truth. We provide theoretical justification for the validity of these bounds. Furthermore, its asymmetric uncertainty scores offer additional, directional information beyond what Gaussian-based, symmetric variance estimation can provide. We find that noise in the data is adequately captured by the intervals produced with our method. In numerical experiments on an image reconstruction task, we demonstrate the practical utility of INNs as a proxy for the prediction error in comparison to two state-of-the-art uncertainty quantification methods. In summary, INNs produce fast, theoretically justified uncertainty scores for DNNs that are easy to interpret, come with added information and pose as improved error proxies - features that may prove useful in advancing the usability of DNNs especially in sensitive applications such as health care.},
+}
+
+@misc{calderonramirez2020mixmood,
+      title={MixMOOD: A systematic approach to class distribution mismatch in semi-supervised learning using deep dataset dissimilarity measures}, 
+      author={Saul Calderon-Ramirez and Luis Oala and Jordina Torrents-Barrena and Shengxiang Yang and Armaghan Moemeni and Wojciech Samek and Miguel A. Molina-Cabello},
+      year={2020},
+      eprint={2006.07767},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      abbr={arXiv},
+      html={https://arxiv.org/abs/2006.07767},
+      pdf={https://arxiv.org/pdf/2006.07767.pdf},
+      abstract={In this work, we propose MixMOOD - a systematic approach to mitigate effect of class distribution mismatch in semi-supervised deep learning (SSDL) with MixMatch. This work is divided into two components: (i) an extensive out of distribution (OOD) ablation test bed for SSDL and (ii) a quantitative unlabelled dataset selection heuristic referred to as MixMOOD. In the first part, we analyze the sensitivity of MixMatch accuracy under 90 different distribution mismatch scenarios across three multi-class classification tasks. These are designed to systematically understand how OOD unlabelled data affects MixMatch performance. In the second part, we propose an efficient and effective method, called deep dataset dissimilarity measures (DeDiMs), to compare labelled and unlabelled datasets. The proposed DeDiMs are quick to evaluate and model agnostic. They use the feature space of a generic Wide-ResNet and can be applied prior to learning. Our test results reveal that supposed semantic similarity between labelled and unlabelled data is not a good heuristic for unlabelled data selection. In contrast, strong correlation between MixMatch accuracy and the proposed DeDiMs allow us to quantitatively rank different unlabelled datasets ante hoc according to expected MixMatch accuracy. This is what we call MixMOOD. Furthermore, we argue that the MixMOOD approach can aid to standardize the evaluation of different semi-supervised learning techniques under real world scenarios involving out of distribution data.},
+}

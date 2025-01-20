@@ -1,0 +1,112 @@
+---
+---
+
+@InProceedings{pmlr-v136-oala20a,
+  abbr = {NeurIPS},
+  award = {Spotlight<br>Top 10%},
+  title = 	 {ML4H Auditing: From Paper to Practice},
+  author =       {Oala, Luis and Fehr, Jana and Gilli, Luca and Balachandran, Pradeep and Leite, Alixandro Werneck and Calderon-Ramirez, Saul and Li, Danny Xie and Nobis, Gabriel and Alvarado, Erick Alejandro Munoz and Jaramillo-Gutierrez, Giovanna and Matek, Christian and Shroff, Arun and Kherif, Ferath and Sanguinetti, Bruno and Wiegand, Thomas},
+  booktitle = 	 {Proceedings of the Machine Learning for Health NeurIPS Workshop},
+  pages = 	 {280--317},
+  year = 	 {2020},
+  editor = 	 {Emily Alsentzer and Matthew B. A. McDermott and Fabian Falck and Suproteem K. Sarkar and Subhrajit Roy and Stephanie L. Hyland},
+  volume = 	 {136},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {11 Dec},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v136/oala20a/oala20a.pdf},
+  url = 	 {http://proceedings.mlr.press/v136/oala20a.html},
+  html = {http://proceedings.mlr.press/v136/oala20a.html},
+  abstract = 	 {Healthcare systems are currently adapting to digital technologies, producing large quantities of novel data. Based on these data, machine-learning algorithms have been developed to support practitioners in labor-intensive workflows such as diagnosis, prognosis, triage or treatment of disease. However, their translation into medical practice is often hampered by a lack of careful evaluation in different settings. Efforts have started worldwide to establish guidelines for evaluating machine learning for health (ML4H) tools, highlighting the necessity to evaluate models for bias, interpretability, robustness, and possible failure modes. However, testing and adopting these guidelines in practice remains an open challenge. In this work, we target the paper-to-practice gap by applying an ML4H audit framework proposed by the ITU/WHO Focus Group on Artificial Intelligence for Health (FG-AI4H) to three use cases: diagnostic prediction of diabetic retinopathy, diagnostic prediction of Alzheimer’s disease, and cytomorphologic classification for leukemia diagnostics. The assessment comprises dimensions such as bias, interpretability, and robustness. Our results highlight the importance of fine-grained and caseadapted quality assessment, provide support for incorporating proposed quality assessment considerations of ML4H during the entire development life cycle, and suggest improvements for future ML4H reference evaluation frameworks.},
+  slides = {http://proceedings.mlr.press/v136/oala20a.html},
+  video = {https://slideslive.at/38941015/ml4h-auditing-from-paper-to-practice},
+  selected = {true}
+}
+
+@InProceedings{OalUDL20,
+  abbr = {ICML},
+  award = {Spotlight<br>Top 10%},
+  author = {Luis Oala and Cosmas Hei{\ss} and Jan Macdonald and Maximilian M{\"a}rz and Wojciech Samek and Gitta Kutyniok},
+  title = {Detecting Failure Modes in Image Reconstructions with Interval Neural Network Uncertainty},
+  booktitle = {ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning},
+  year = {2020},
+  pages = {},
+  url = {https://arxiv.org/abs/2003.11566},
+  html = {https://sites.google.com/view/udlworkshop2020/home},
+  pdf = {http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-011.pdf},
+  abstract = {The quantitative detection of failure modes is important for making deep neural networks reliable and usable at scale. We consider three examples for failure modes in image reconstruction problems and demonstrate the potential of uncertainty quantification as a fine-grained alarm system. We propose a deterministic, modular and lightweight approach, called Interval Neural Networks, that produces fast and easy to interpret uncertainty scores which improve the detection of failure modes across four out of five image reconstruction experiments.},
+  slides = {},
+  video = {https://slideslive.com/38930948},
+  selected = {true}
+}
+
+@InProceedings{MacBVM21,
+  abbr = {BVM},
+  award = {Oral},
+  abstract = {This work investigates the detection of instabilities that may occur when utilizing deep learning models for image reconstruction tasks. Although neural networks often empirically outperform traditional reconstruction methods, their usage for sensitive medical applications remains controversial. Indeed, in a recent series of works, it has been demonstrated that deep learning approaches are susceptible to various types of instabilities, caused for instance by adversarial noise or out-of-distribution features. It is argued that this phenomenon can be observed regardless of the underlying architecture and that there is no easy remedy. Based on this insight, the present work demonstrates, how uncertainty quantification methods can be employed as instability detectors. In particular, it is shown that the recently proposed Interval Neural Networks are highly effective in revealing instabilities of reconstructions. Such an ability is crucial to ensure a safe use of deep learning-based methods for medical image reconstruction.},
+  pages = 	 {280--317},
+  author = {Jan Macdonald and Maximilian M{\"a}rz and Luis Oala and Wojciech Samek},
+  title = {Interval Neural Networks as Instability Detectors for Image Reconstructions},
+  booktitle = {Proceedings Bildverarbeitung f{\"u}r die Medizin},
+  year = {2021},
+  number = {},
+  pages = {},
+  url = {https://arxiv.org/abs/2003.13471},
+  html = {https://www.bvm-workshop.org/},
+  pdf = {https://arxiv.org/pdf/2003.13471.pdf},
+  selected = {true}
+}
+
+@article{questionnaire,
+    title={Model Questionnaire},
+    author={FG-AI4H},
+    journal={Reference document J-038 on FG-AI4H server},
+    url={https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/SitePages/Home.aspx},
+    year={2020},
+    selected = {true}
+}
+
+@article{daisamref,
+    title={Data and Artificial Intelligence Assessment Methods (DAISAM) Reference},
+    author={FG-AI4H},
+    journal={Reference document DEL 7.3 on FG-AI4H server},
+    url={https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/SitePages/Home.aspx},
+    year={2020},
+    selected = {true}
+}
+
+@article{reportingcards,
+    title={DAISAM Audit Reporting Template},
+    author={FG-AI4H},
+    journal={Reference document J-048 on FG-AI4H server},
+    url={https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/SitePages/Home.aspx},
+    year={2020},
+    selected = {true}
+}
+
+@article{reportingcards,
+    title={White Paper on Artificial Intelligence: a European approach to excellence and trust},
+    author={European Commission},
+    journal={Whitepaper, Brussels, 19.2.2020 COM(2020) 65 final},
+    url={https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf},
+    year={19 February 2020},
+    selected = {true}
+}
+
+@article{reportingcards,
+    title={Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self-assessment},
+    author={European Commission-High-Level Expert Group on Artificial Intelligence},
+    journal={European Commission Document, B-1049 Brussels},
+    url={PDF: ISBN 978-92-76-20008-6 doi:10.2759/002360 KK-02-20-479-EN-N},
+    year={17 July 2020},
+    selected = {true}
+}
+
+@article{reportingcards,
+    title={Good practices for health applications of machine learning: Considerations for manufacturers and regulators},
+    author={AI4H-FG},
+    journal={Reference Document DEL 2.2 on FG-AI4H server 2020},
+    url={https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/_layouts/15/WopiFrame.aspx?sourcedoc=%7B828882B2-4941-452C-8A61-F4DDE5802C2A%7D&file=FGAI4H-K-039.docx&action=default&CT=1613737029587&OR=DocLibClassicUI},
+    year={27 January 2021},
+    selected = {true}
+}
