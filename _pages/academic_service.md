@@ -18,9 +18,9 @@ Research Roundtable Subchair - [Machine Learning for Health Symposium (ML4H) 202
 
 [WACV 2025 3rd Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)](https://llvm-ad.github.io/)
 
-[ITSC 2024 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)](https://llvm-ad.github.io/)
+[ITSC 2024 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)](https://llvm-ad.github.io/ITSC_2024/)
 
-[WACV 2024 1st Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)](https://llvm-ad.github.io/)
+[WACV 2024 1st Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)](https://llvm-ad.github.io/WACV_2024/)
 
 ### Conference Reviewer
 
