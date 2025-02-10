@@ -21,6 +21,8 @@ Before starting my Ph.D., I gained industry experience as a Machine Learning Eng
 
 ❗I am looking for Research Intern opportunities in the 2025 Summer and 2025 Fall.
 
+I am also seeking a full-time/part-time remote Research Scientist or AI Consultant role in Hong Kong. Feel free to reach out to me via LinkedIn or email.
+
 {% if page.news %}
   {% include news.html %}
 {% endif %}
