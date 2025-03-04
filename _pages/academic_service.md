@@ -7,6 +7,8 @@ nav: true
 
 ---
 
+**I am actively seeking opportunities to serve as an area chair for AI conferences or as an associate editor for academic journals. If you have any relevant openings, please feel free to reach out via email.**
+
 ### Conference Organizer
 
 Research Roundtable Subchair - [Machine Learning for Health Symposium (ML4H) 2024](https://ahli.cc/ml4h/)
@@ -30,7 +32,7 @@ Research Roundtable Subchair - [Machine Learning for Health Symposium (ML4H) 202
 
 **Data Mining Conference:** CIKM, ECML-PKDD
 
-**Healthcare Conferences:** CHIL, ISBI, MICCAI, ML4H (as authors' mentor)
+**Healthcare Conferences:** CHIL, ISBI, MICCAI, ML4H ([as authors' mentor in 2023](https://ml4h.cc/2023/author_mentorship.html))
 
 **ML Conferences:** ICASSP, ICLR, ICML, ICPR, IJCNN, NeurIPS (Main Track, D&B Track)
 
@@ -38,5 +40,13 @@ Research Roundtable Subchair - [Machine Learning for Health Symposium (ML4H) 202
 
 ### Journal Reviewer
 
-IEEE Internet of Things Journal (IoT-J), IEEE Transactions on Medical Imaging (TMI), International Journal of Human-Computer Interaction (IJHCI), IEEE Transactions on Intelligent Vehicles (T-IV), IEEE Internet Computing, IEEE Transactions on Multimedia (TMM), IEEE Transactions on Mobile Computing (TMC)
+IEEE Internet of Things Journal (IoT-J)    
+IEEE Transactions on Medical Imaging (TMI)    
+International Journal of Human-Computer Interaction (IJHCI)     
+IEEE Transactions on Intelligent Vehicles (T-IV)    
+IEEE Internet Computing    
+IEEE Transactions on Multimedia (TMM)    
+IEEE Transactions on Mobile Computing (TMC)    
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)    
+Scientific Data    
 
