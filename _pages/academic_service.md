@@ -7,8 +7,6 @@ nav: true
 
 ---
 
-**I am actively seeking opportunities to serve as an area chair for AI conferences or as an associate editor for academic journals. If you have any relevant openings, please feel free to reach out via email.**
-
 ### Conference Organizer
 
 Research Roundtable Subchair - [Machine Learning for Health Symposium (ML4H) 2024](https://ahli.cc/ml4h/)
