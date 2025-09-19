@@ -5,4 +5,4 @@ date: 2025-09-18
 inline: true
 ---
 
-Two papers are accepted by NeurIPS 2025.
+Two papers are accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025).
