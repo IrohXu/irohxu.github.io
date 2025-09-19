@@ -15,11 +15,11 @@ social: false  # includes social icons at the bottom of the page
 
 ## About me
 
-I am the co-founder of [PediaMed AI](https://pediamedai.com/), advancing AI technologies for pediatrics. Currently, I am a Ph.D. student at the [Health Care Engineering Systems Center](https://healtheng.illinois.edu/) at the **University of Illinois Urbana-Champaign**, where I am fortunate to be advised by [Prof. James M. Rehg](https://rehg.org/) and [Prof. Jimeng Sun](https://www.sunlab.org/).
+I am the co-founder of [PediaMed AI](https://pediamed.ai/), advancing AI technologies for pediatrics. Currently, I am a Ph.D. student at the [Health Care Engineering Systems Center](https://healtheng.illinois.edu/) at the **University of Illinois Urbana-Champaign**, where I am fortunate to be advised by [Prof. James M. Rehg](https://rehg.org/) and [Prof. Jimeng Sun](https://www.sunlab.org/).
 
-Before starting my Ph.D., I gained industry experience as a Machine Learning Engineer at [SambaNova Systems](https://sambanova.ai/) and [Tencent](https://www.tencent.com/en-us/about.html), where I worked on cutting-edge AI solutions for autonomous driving and image/video generation. My research focuses on developing innovative AI-driven approaches such as Vision Language Models, Diffusion Models to improve both autonomous driving and healthcare.
+Before starting my Ph.D., I gained industry experience as a Machine Learning Engineer at [SambaNova Systems](https://sambanova.ai/) and [Tencent](https://www.tencent.com/en-us/about.html), where I worked on cutting-edge AI solutions for autonomous driving and image/video generation. My research focuses on developing innovative AI-driven approaches such as Vision language models, AI alignment, LLM/VLM post training in Social AI, AR/XR, and healthcare application.
 
-❗I am looking for full-time and internship roles in Canada and USA.
+❗I am looking for full-time and internship roles in Canada and the USA.
 
 {% if page.news %}
   {% include news.html %}
