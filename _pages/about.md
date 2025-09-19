@@ -19,7 +19,7 @@ I am the co-founder of [PediaMed AI](https://pediamedai.com/), advancing AI tech
 
 Before starting my Ph.D., I gained industry experience as a Machine Learning Engineer at [SambaNova Systems](https://sambanova.ai/) and [Tencent](https://www.tencent.com/en-us/about.html), where I worked on cutting-edge AI solutions for autonomous driving and image/video generation. My research focuses on developing innovative AI-driven approaches such as Vision Language Models, Diffusion Models to improve both autonomous driving and healthcare.
 
-❗I am looking for full-time role in Canada, USA.
+❗I am looking for full-time and internship roles in Canada and USA.
 
 {% if page.news %}
   {% include news.html %}
